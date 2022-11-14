@@ -13,7 +13,7 @@
 - Django Rest Framework
 - Nginx
 - Gunicorn
-- PostgresSQL
+- PostgreSQL
 - Docker
 
 
