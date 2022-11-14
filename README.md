@@ -24,7 +24,7 @@ git@github.com:AlexVodyanitsky/YaMDB.git
 ```
 Перейти в директорию infra
 ```
-cd Yamdb/infra/
+cd YaMDB/infra/
 ```
 Создать файл .env и наполнить его по шаблону:
 ```

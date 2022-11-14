@@ -2,7 +2,7 @@ from django.db.models import Avg
 from django_filters.rest_framework import DjangoFilterBackend
 from rest_framework import filters, viewsets
 
-from reviews.models import Category, Genre, Title
+from categories.models import Category, Genre, Title
 from .filters import TitlesFilter
 from .mixins import ListCreateDestroyViewSet
 from .serializers import (CategorySerializer, GenreSerializer,

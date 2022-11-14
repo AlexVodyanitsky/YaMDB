@@ -1,8 +1,8 @@
 from django.urls import include, path
 from rest_framework import routers
 
-from .categories_and_more.views import (CategoryViewSet, GenreViewSet,
-                                        TitleViewSet)
+from .categories.views import (CategoryViewSet, GenreViewSet,
+                               TitleViewSet)
 from .reviews.views import CommentViewSet, ReviewViewSet
 from .users.views import GetTokenView, SignUpView, UserViewSet
 
