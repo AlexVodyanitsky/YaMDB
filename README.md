@@ -20,11 +20,11 @@
 ### Как запустить проект:
 Клонировать репозиторий
 ```
-git@github.com:AlexVodyanitsky/infra_sp2.git
+git@github.com:AlexVodyanitsky/YaMDB.git
 ```
 Перейти в директорию infra
 ```
-cd infra_sp2/infra/
+cd Yamdb/infra/
 ```
 Создать файл .env и наполнить его по шаблону:
 ```
